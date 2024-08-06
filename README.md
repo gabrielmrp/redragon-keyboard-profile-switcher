@@ -36,11 +36,14 @@ Para instalar, siga os passos abaixo:
 
 4. Clique em “Sair” no ícone para sair da aplicação.
 
-## Informações sobre Especificações
+## Especificações
 
 - **Teclado:** Redragon Ashe
 - **Sistema Operacional:** Windows 11
 - **Python:** 3.9.13
+
+## Importante
+Não movimentar o mouse enquanto o aplicativo estiver alternando o perfil para evitar situações indesejadas 
 
 ---
 
@@ -87,3 +90,6 @@ To install, follow these steps:
 - **Keyboard:** Redragon Ashe
 - **Operating System:** Windows 11
 - **Python:** 3.9.13
+
+## Importante
+Do not move the mouse when the app is in the profile switch process in order to avoid unwanted behaviours.
